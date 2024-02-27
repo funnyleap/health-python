@@ -1,4 +1,4 @@
-## Frappe Health Proejct
+## Frappe Health
 
 Open source & easy-to-use hospital information system(HIS) for all healthcare organisations.
 
